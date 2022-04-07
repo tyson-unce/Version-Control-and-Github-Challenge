@@ -1,0 +1,8 @@
+The Terminal is a tool that is used to access everything you can on, in this case, a mac, but in general any console where the terminal is, using command lines
+.
+
+The difference between git and github is that github uses git for it's company, allowing people to upload what they make using git, and git is an open source tool.
+
+We use Github in order to collaborate productively and easily, using git, allowing us to upload and pull code from our github.
+
+
